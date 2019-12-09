@@ -1,6 +1,6 @@
-# Typescript template
+# Threejs points wave simulation
 
-A minimal template for a vanilla typescript project using [Parcel](https://parceljs.org/).
+Demo of [Ripple effect](https://codepen.io/cheekymonkey/full/GaWKBB)
 
 ## Instructions
 
