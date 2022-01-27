@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "simplex-noise": "^2.4.0",
-    "three": "^0.104.0",
+    "three": "^0.137.0",
     "three-orbitcontrols-ts": "^0.1.2"
   }
 }
